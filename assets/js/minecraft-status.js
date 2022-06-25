@@ -3,7 +3,7 @@
 const ServerStatus = function(andress, port) {
 	var Global = {};
 		Global.variables = {},
-		Global.variables.api_url = "https://api.mcsrvstat.us/bedrock/2/20.248.210.86:19132",
+		Global.variables.api_url = "https://api.mcsrvstat.us/bedrock/2/20.248.210.86",
 		Global.variables.server_resolved = undefined;
 
 
