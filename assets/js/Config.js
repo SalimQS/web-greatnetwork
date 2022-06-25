@@ -3,7 +3,7 @@ const Config = {
 
 'server-logo': 'assets/img/logo.png',
 
-'server-ip': 'mc.minemora.net',
+'server-ip': '20.248.210.86:19132',
 
 'server-status': {
 	'background-color': '#fff659',
