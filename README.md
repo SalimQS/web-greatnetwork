@@ -1,1 +1,1 @@
-* Server Website(https:///main.greatnetwork.xyz/)
+* [Server Website](https:///main.greatnetwork.xyz/)
