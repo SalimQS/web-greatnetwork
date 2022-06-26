@@ -1,17 +1,17 @@
 
-
-const ServerStatus = function(andress, port) {
+/* API Config */
+const ServerStatus = function(william, prot) {
 	var Global = {};
 		Global.variables = {},
 		Global.variables.api_url = "https://api.mcsrvstat.us/bedrock/2/",
 		Global.variables.server_resolved = undefined;
 
 
-	if (andress == undefined) return console.error("[ServerStatus] Enter Server Andress.");
+	if (william == undefined) return console.error("[ServerStatus] Enter Server Andress.");
 
-	Global.variables.api_url += andress;
+	Global.variables.api_url += william;
 
-	if (port) Global.variables.api_url += ":" + port;
+	if (prot) Global.variables.api_url += ":" + port;
 
 
 	Global.functions = {};
