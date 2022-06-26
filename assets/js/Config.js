@@ -31,17 +31,17 @@ const Config = {
 },
 
 'web-buttons': {
-	'Store': {
+	'Website': {
 		icon: 'assets/img/store.png',
-		url: 'https://store.myweb.net'
+		url: 'https://greatnetwork.xyz'
 	},
-	'Forum': {
+	'Add Server': {
 		icon: 'assets/img/forum.png',
-		url: 'https://forum.myweb.net'
+		url: 'https://add.greatnetwork.xyz'
 	},
-	'Bans': {
+	'Whatsapp Group': {
 		icon: 'assets/img/bans.png',
-		url: 'https://bans.myweb.net'
+		url: 'https://chat.whatsapp.com/H2siLZaY5br7BaGrIXAUOE'
 	}
 }
 
